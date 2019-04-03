@@ -1,6 +1,6 @@
 <template>
     <section class="mine-box">
-        开发中a
+        开发中ass
     </section>
 </template>
 <script>

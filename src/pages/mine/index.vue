@@ -1,11 +1,22 @@
 <template>
-    <section class="mine-box">
-        开发中ass
-    </section>
+  <section class="mine-box">
+  </section>
 </template>
 <script>
 export default {
+  data() {
+    return {
+
+    }
+  },
+  computed: {
     
+  },
+  methods: {
+
+  },
+  mounted() {
+  }
 }
 </script>
 <style>
